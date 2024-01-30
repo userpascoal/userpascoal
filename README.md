@@ -11,3 +11,5 @@
 
 </p> <img width="100" src="https://user-images.githubusercontent.com/46964018/92511405-a5d08d80-f1e3-11ea-8883-7f063030787a.gif"></p>
 <img src="https://media1.tenor.com/m/SyyBm8FdDSUAAAAC/android-update.gif" width="100px" height="100px" align="center">
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
