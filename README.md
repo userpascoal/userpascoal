@@ -9,4 +9,4 @@
 
 [![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhmit&langs_count=8&theme=github_dark&hide_border=true&layout=compact)](https://github.com/userpascoal)
 
-<img src="https://media1.tenor.com/m/SyyBm8FdDSUAAAAC/android-update.gif" width="100px" height="1000px" align="center">
+<img src="https://media1.tenor.com/m/SyyBm8FdDSUAAAAC/android-update.gif" width="1000px" height="500px" align="center">
